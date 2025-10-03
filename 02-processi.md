@@ -102,6 +102,8 @@ Si avvia il processo nel suo entry point (`main()` in C)
 
 Ci sono altri stati, ma questi sono i principali
 
+<!-- Esempio di esecuzione: due processi di fila, in un caso uno fa I/O -->
+
 ---
 
 # Nodo della lista processi (OS didattico xv6)
