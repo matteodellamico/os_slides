@@ -133,3 +133,13 @@ struct proc {
     struct trapframe *tf; // Trap frame for the current interrupt
 };
 ```
+
+---
+
+# Esercizi consigliati
+
+`git clone https://github.com/remzi-arpacidusseau/ostep-homework/`
+
+`cd ostep-homework/cpu-intro`
+
+Leggere `README.md` e svolgere gli esercizi (pagine 12-13) di https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf.
