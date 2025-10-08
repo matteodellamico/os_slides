@@ -51,6 +51,17 @@ Viene implementato tramite **meccanismi** di basso livello (es.: *context switch
 
 ---
 
+# Design #1: separare meccanismi e politiche
+
+- **Meccanismi**: come fa il SO a fare qualcosa (es.: cambiare processo in esecuzione)
+- **Politiche**: quando e perché il SO fa qualcosa (es.: quale processo eseguire)
+
+Separarli permette di
+ - **cambiare politica** senza riscrivere i meccanismi
+ - riscrivere **solo i meccanismi** quando cambia l'architettura hardware
+
+---
+
 # Cos'è un processo, per il SO?
 
 Il suo **stato**: ciò che può cambiare mentre si esegue.
