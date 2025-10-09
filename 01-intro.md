@@ -1,10 +1,17 @@
 ---
 marp: true
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
 style: |
   pre {
     font-size: 0.68em;
   }
+  section { 
+    background: #f5f5f5ff;
+  }
+  section.design {
+    background: #e9d992ff;
+  }
+
+
 ---
 
 # **Sistemi operativi: introduzione**

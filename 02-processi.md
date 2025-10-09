@@ -1,9 +1,20 @@
 ---
 marp: true
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
+# backgroundImage: url('https://marp.app/assets/hero-background.svg')
 style: |
   pre {
     font-size: 0.68em;
+  }
+  section { 
+    background: #f5f5f5ff;
+  }
+  section.design {
+    background: #e9d992ff;
+    /*
+    color: white;
+    h1, h2, h3, h4, h5, h6 {
+      color: #c9c9c9ff;
+    }*/
   }
 ---
 
@@ -51,12 +62,16 @@ Viene implementato tramite **meccanismi** di basso livello (es.: *context switch
 
 ---
 
-# Design #1: separare meccanismi e politiche
+<!-- _class: design -->
 
-- **Meccanismi**: come fa il SO a fare qualcosa (es.: cambiare processo in esecuzione)
-- **Politiche**: quando e perché il SO fa qualcosa (es.: quale processo eseguire)
+# Design tip: separare meccanismi e politiche
 
-Separarli permette di
+- **Meccanismi**: come fa il SO a fare qualcosa
+  - es.: cambiare processo in esecuzione
+- **Politiche**: quando e perché il SO fa qualcosa
+  - es.: quale processo eseguire
+
+**Separarli** permette di
  - **cambiare politica** senza riscrivere i meccanismi
  - riscrivere **solo i meccanismi** quando cambia l'architettura hardware
 
