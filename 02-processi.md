@@ -1,6 +1,6 @@
 ---
 marp: true
-# backgroundImage: url('https://marp.app/assets/hero-background.svg')
+# <style> @import url('theme.css'); </style>
 style: |
   pre {
     font-size: 0.68em;
@@ -8,13 +8,8 @@ style: |
   section { 
     background: #f5f5f5ff;
   }
-  section.design {
+  section.design: {
     background: #e9d992ff;
-    /*
-    color: white;
-    h1, h2, h3, h4, h5, h6 {
-      color: #c9c9c9ff;
-    }*/
   }
 ---
 
