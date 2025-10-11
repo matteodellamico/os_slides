@@ -7,3 +7,11 @@ Creato con [Marp](https://marp.app).
 Basato in gran parte su [Operating Systems: Three Easy Pieces](https://ostep.org) di Remzi H. Arpaci-Dusseau e Andrea C. Arpaci-Dusseau.
 
 Licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Compilazione
+
+Per compilare le slide in PDF e HTML:
+- installare `npm`(ad esempio con `sudo apt install npm` su Debian/Ubuntu)
+- eseguire `make`
+
+In alternativa, si può usare [Marp CLI](https://github.com/marp-team/marp-cli).
