@@ -29,7 +29,7 @@ style: |
 
 Matteo Dell'Amico
 
-<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="CC-BY-SA" width="100" /></a> [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="CC-BY-SA" width="100" /></a> [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Sorgenti [Marp](https://marp.app/) su https://github.com/matteodellamico/os_slides
 
