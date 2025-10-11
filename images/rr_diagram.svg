@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="68.098473mm"
+   height="25.706902mm"
+   viewBox="0 0 68.098473 25.706902"
+   version="1.1"
+   id="svg4226"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="rr_diagram.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4228"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.914906"
+     inkscape:cx="-1623.1176"
+     inkscape:cy="144.27712"
+     inkscape:window-width="3774"
+     inkscape:window-height="2089"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4223">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2130">
+      <path
+         d="m 1069.74,4031.28 h 62.2109 v 388.801 H 1069.74 Z"
+         id="path2128" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2146">
+      <path
+         d="m 1131.95,4031.28 h 62.207 v 388.801 h -62.207 z"
+         id="path2144" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2162">
+      <path
+         d="m 1194.16,4031.28 h 62.207 v 388.801 h -62.207 z"
+         id="path2160" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2178">
+      <path
+         d="m 1256.36,4031.28 h 62.207 v 388.801 h -62.207 z"
+         id="path2176" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2194">
+      <path
+         d="m 1318.57,4031.28 h 62.2109 v 388.801 H 1318.57 Z"
+         id="path2192" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2210">
+      <path
+         d="m 1380.78,4031.28 h 62.207 v 388.801 h -62.207 z"
+         id="path2208" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2226">
+      <path
+         d="m 1442.99,4031.28 h 62.207 v 388.801 h -62.207 z"
+         id="path2224" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2242">
+      <path
+         d="m 1505.2,4031.28 h 62.207 v 388.801 H 1505.2 Z"
+         id="path2240" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2258">
+      <path
+         d="m 1567.4,4031.28 h 62.2109 v 388.801 H 1567.4 Z"
+         id="path2256" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2274">
+      <path
+         d="m 1629.61,4031.28 h 62.207 v 388.801 h -62.207 z"
+         id="path2272" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2290">
+      <path
+         d="m 1691.82,4031.28 h 62.207 v 388.801 h -62.207 z"
+         id="path2288" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2306">
+      <path
+         d="m 1754.03,4031.28 h 62.207 v 388.801 h -62.207 z"
+         id="path2304" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2322">
+      <path
+         d="m 1816.23,4031.28 h 62.2109 v 388.801 H 1816.23 Z"
+         id="path2320" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2338">
+      <path
+         d="m 1878.45,4031.28 h 62.207 v 388.801 h -62.207 z"
+         id="path2336" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2354">
+      <path
+         d="m 1940.65,4031.28 h 62.207 v 388.801 h -62.207 z"
+         id="path2352" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-534.79107,-110.34227)">
+    <path
+       d="m 535.35498,127.68843 h 66.1416"
+       style="fill:none;stroke:#000000;stroke-width:0.3048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path2100" />
+    <path
+       d="m 535.50738,128.90763 v -1.2192"
+       style="fill:none;stroke:#000000;stroke-width:0.3048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path2102" />
+    <path
+       d="m 546.48018,128.90763 v -1.2192"
+       style="fill:none;stroke:#000000;stroke-width:0.3048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path2104" />
+    <path
+       d="m 557.45298,128.90763 v -1.2192"
+       style="fill:none;stroke:#000000;stroke-width:0.3048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path2106" />
+    <path
+       d="m 568.42578,128.90763 v -1.2192"
+       style="fill:none;stroke:#000000;stroke-width:0.3048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path2108" />
+    <path
+       d="m 579.39858,128.90763 v -1.2192"
+       style="fill:none;stroke:#000000;stroke-width:0.3048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path2110" />
+    <path
+       d="m 590.37138,128.90763 v -1.2192"
+       style="fill:none;stroke:#000000;stroke-width:0.3048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path2112" />
+    <path
+       d="m 601.34418,128.90763 v -1.2192"
+       style="fill:none;stroke:#000000;stroke-width:0.3048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path2114" />
+    <g
+       id="g2116"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,104.572,390.859)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2122"><tspan
+           x="0 31.103914 59.806252 64.610092 90.910164 95.714005 122.01408 126.81792 153.11833 157.92218 184.22226 189.02609"
+           y="0"
+           sodipodi:role="line"
+           id="tspan2118">051015202530</tspan><tspan
+           x="86.115196 91.394241 93.312317 100.50944"
+           y="11.232"
+           sodipodi:role="line"
+           id="tspan2120">Time</tspan></text>
+    </g>
+    <g
+       id="g2124"
+       transform="matrix(0.03527778,0,0,-0.03527778,497.76933,269.90303)">
+      <g
+         id="g2126"
+         clip-path="url(#clipPath2130)">
+        <path
+           d="m 1069.74,4031.28 h 62.2109 v 388.801 H 1069.74 Z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2132" />
+      </g>
+    </g>
+    <g
+       id="g2134"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,107.203,445.896)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2138"><tspan
+           x="0"
+           y="0"
+           id="tspan2136">A</tspan></text>
+    </g>
+    <g
+       id="g2140"
+       transform="matrix(0.03527778,0,0,-0.03527778,497.76933,269.90303)">
+      <g
+         id="g2142"
+         clip-path="url(#clipPath2146)">
+        <path
+           d="m 1131.95,4031.28 h 62.207 v 388.801 h -62.207 z"
+           style="fill:#d4d4d4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2148" />
+      </g>
+    </g>
+    <g
+       id="g2150"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,113.424,445.896)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2154"><tspan
+           x="0"
+           y="0"
+           id="tspan2152">B</tspan></text>
+    </g>
+    <g
+       id="g2156"
+       transform="matrix(0.03527778,0,0,-0.03527778,497.76933,269.90303)">
+      <g
+         id="g2158"
+         clip-path="url(#clipPath2162)">
+        <path
+           d="m 1194.16,4031.28 h 62.207 v 388.801 h -62.207 z"
+           style="fill:#a8a8a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2164" />
+      </g>
+    </g>
+    <g
+       id="g2166"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,119.407,445.896)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2170"><tspan
+           x="0"
+           y="0"
+           id="tspan2168">C</tspan></text>
+    </g>
+    <g
+       id="g2172"
+       transform="matrix(0.03527778,0,0,-0.03527778,497.76933,269.90303)">
+      <g
+         id="g2174"
+         clip-path="url(#clipPath2178)">
+        <path
+           d="m 1256.36,4031.28 h 62.207 v 388.801 h -62.207 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2180" />
+      </g>
+    </g>
+    <g
+       id="g2182"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,125.866,445.896)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2186"><tspan
+           x="0"
+           y="0"
+           id="tspan2184">A</tspan></text>
+    </g>
+    <g
+       id="g2188"
+       transform="matrix(0.03527778,0,0,-0.03527778,497.76933,269.90303)">
+      <g
+         id="g2190"
+         clip-path="url(#clipPath2194)">
+        <path
+           d="m 1318.57,4031.28 h 62.2109 v 388.801 H 1318.57 Z"
+           style="fill:#d4d4d4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2196" />
+      </g>
+    </g>
+    <g
+       id="g2198"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,132.086,445.896)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2202"><tspan
+           x="0"
+           y="0"
+           id="tspan2200">B</tspan></text>
+    </g>
+    <g
+       id="g2204"
+       transform="matrix(0.03527778,0,0,-0.03527778,497.76933,269.90303)">
+      <g
+         id="g2206"
+         clip-path="url(#clipPath2210)">
+        <path
+           d="m 1380.78,4031.28 h 62.207 v 388.801 h -62.207 z"
+           style="fill:#a8a8a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2212" />
+      </g>
+    </g>
+    <g
+       id="g2214"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,138.07,445.896)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2218"><tspan
+           x="0"
+           y="0"
+           id="tspan2216">C</tspan></text>
+    </g>
+    <g
+       id="g2220"
+       transform="matrix(0.03527778,0,0,-0.03527778,497.76933,269.90303)">
+      <g
+         id="g2222"
+         clip-path="url(#clipPath2226)">
+        <path
+           d="m 1442.99,4031.28 h 62.207 v 388.801 h -62.207 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2228" />
+      </g>
+    </g>
+    <g
+       id="g2230"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,144.528,445.896)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2234"><tspan
+           x="0"
+           y="0"
+           id="tspan2232">A</tspan></text>
+    </g>
+    <g
+       id="g2236"
+       transform="matrix(0.03527778,0,0,-0.03527778,497.76933,269.90303)">
+      <g
+         id="g2238"
+         clip-path="url(#clipPath2242)">
+        <path
+           d="m 1505.2,4031.28 h 62.207 v 388.801 H 1505.2 Z"
+           style="fill:#d4d4d4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2244" />
+      </g>
+    </g>
+    <g
+       id="g2246"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,150.749,445.896)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2250"><tspan
+           x="0"
+           y="0"
+           id="tspan2248">B</tspan></text>
+    </g>
+    <g
+       id="g2252"
+       transform="matrix(0.03527778,0,0,-0.03527778,497.76933,269.90303)">
+      <g
+         id="g2254"
+         clip-path="url(#clipPath2258)">
+        <path
+           d="m 1567.4,4031.28 h 62.2109 v 388.801 H 1567.4 Z"
+           style="fill:#a8a8a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2260" />
+      </g>
+    </g>
+    <g
+       id="g2262"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,156.732,445.896)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2266"><tspan
+           x="0"
+           y="0"
+           id="tspan2264">C</tspan></text>
+    </g>
+    <g
+       id="g2268"
+       transform="matrix(0.03527778,0,0,-0.03527778,497.76933,269.90303)">
+      <g
+         id="g2270"
+         clip-path="url(#clipPath2274)">
+        <path
+           d="m 1629.61,4031.28 h 62.207 v 388.801 h -62.207 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2276" />
+      </g>
+    </g>
+    <g
+       id="g2278"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,163.19,445.896)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2282"><tspan
+           x="0"
+           y="0"
+           id="tspan2280">A</tspan></text>
+    </g>
+    <g
+       id="g2284"
+       transform="matrix(0.03527778,0,0,-0.03527778,497.76933,269.90303)">
+      <g
+         id="g2286"
+         clip-path="url(#clipPath2290)">
+        <path
+           d="m 1691.82,4031.28 h 62.207 v 388.801 h -62.207 z"
+           style="fill:#d4d4d4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2292" />
+      </g>
+    </g>
+    <g
+       id="g2294"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,169.411,445.896)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2298"><tspan
+           x="0"
+           y="0"
+           id="tspan2296">B</tspan></text>
+    </g>
+    <g
+       id="g2300"
+       transform="matrix(0.03527778,0,0,-0.03527778,497.76933,269.90303)">
+      <g
+         id="g2302"
+         clip-path="url(#clipPath2306)">
+        <path
+           d="m 1754.03,4031.28 h 62.207 v 388.801 h -62.207 z"
+           style="fill:#a8a8a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2308" />
+      </g>
+    </g>
+    <g
+       id="g2310"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,175.394,445.896)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2314"><tspan
+           x="0"
+           y="0"
+           id="tspan2312">C</tspan></text>
+    </g>
+    <g
+       id="g2316"
+       transform="matrix(0.03527778,0,0,-0.03527778,497.76933,269.90303)">
+      <g
+         id="g2318"
+         clip-path="url(#clipPath2322)">
+        <path
+           d="m 1816.23,4031.28 h 62.2109 v 388.801 H 1816.23 Z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2324" />
+      </g>
+    </g>
+    <g
+       id="g2326"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,181.853,445.896)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2330"><tspan
+           x="0"
+           y="0"
+           id="tspan2328">A</tspan></text>
+    </g>
+    <g
+       id="g2332"
+       transform="matrix(0.03527778,0,0,-0.03527778,497.76933,269.90303)">
+      <g
+         id="g2334"
+         clip-path="url(#clipPath2338)">
+        <path
+           d="m 1878.45,4031.28 h 62.207 v 388.801 h -62.207 z"
+           style="fill:#d4d4d4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2340" />
+      </g>
+    </g>
+    <g
+       id="g2342"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,188.073,445.896)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2346"><tspan
+           x="0"
+           y="0"
+           id="tspan2344">B</tspan></text>
+    </g>
+    <g
+       id="g2348"
+       transform="matrix(0.03527778,0,0,-0.03527778,497.76933,269.90303)">
+      <g
+         id="g2350"
+         clip-path="url(#clipPath2354)">
+        <path
+           d="m 1940.65,4031.28 h 62.207 v 388.801 h -62.207 z"
+           style="fill:#a8a8a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2356" />
+      </g>
+    </g>
+    <g
+       id="g2358"
+       transform="matrix(0.35277777,0,0,-0.35277777,497.76933,269.90303)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,194.057,445.896)"
+         style="font-variant:normal;font-size:8.64px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2362"><tspan
+           x="0"
+           y="0"
+           id="tspan2360">C</tspan></text>
+    </g>
+  </g>
+</svg>
