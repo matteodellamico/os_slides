@@ -34,7 +34,7 @@ Un processo è un **programma in esecuzione**. Il sistema operativo **dà vita**
 
 # L'illusione delle CPU infinite
 
-![bg right:50%](images/infinite_cpus.png)
+![bg right:50%](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/infinite_cpus.png)
 
 Vogliamo eseguire molti programmi contemporaneamente, ma abbiamo **un numero limitato di CPU** (per molto tempo i computer ne avevano una sola).
 
@@ -97,7 +97,7 @@ Lo stato viene salvato quando il processo viene interrotto e ricaricato quando r
 
 # Creazione di processi
 
-![bg left:40% 100%](images/process-loading.png)
+![bg left:40% 100%](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/process-loading.png)
 
 Codice e dati vengono **copiati in memoria**
 - nei SO recenti, in modo "pigro" (*lazy*): solo quando serve (lo vedremo!)
@@ -114,7 +114,7 @@ Si avvia il processo nel suo entry point (`main()` in C)
 
 # Stato di un processo
 
-![bg right:30% 100%](images/process-states.png)
+![bg right:30% 100%](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/process-states.png)
 
 - **Pronto** (*ready*): può essere eseguito appena la CPU è libera
 - **In esecuzione** (*running*): sta usando la CPU
