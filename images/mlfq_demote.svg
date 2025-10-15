@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="46.269226mm"
+   height="42.974201mm"
+   viewBox="0 0 46.269226 42.974201"
+   version="1.1"
+   id="svg5815"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="mlfq_demote.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5817"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1893044"
+     inkscape:cx="-155.55311"
+     inkscape:cy="493.56582"
+     inkscape:window-width="3774"
+     inkscape:window-height="2091"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5812" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-442.50098,1045.8854)">
+    <g
+       id="g880"
+       transform="matrix(0.35277777,0,0,-0.35277777,383.81496,-849.03542)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,166.044,536.517)"
+         style="font-variant:normal;font-size:8.16px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text888"><tspan
+           x="0 6.3484802"
+           y="0"
+           sodipodi:role="line"
+           id="tspan882">Q2</tspan><tspan
+           x="0 6.3484802"
+           y="37.090599"
+           sodipodi:role="line"
+           id="tspan884">Q1</tspan><tspan
+           x="0 6.3484802"
+           y="74.181198"
+           sodipodi:role="line"
+           id="tspan886">Q0</tspan></text>
+    </g>
+    <path
+       d="m 447.25569,-1006.6308 h 39.25464"
+       style="fill:none;stroke:#000000;stroke-width:0.119944;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.479778, 0.479778;stroke-dashoffset:0;stroke-opacity:1"
+       id="path890" />
+    <path
+       d="m 447.25569,-1019.7157 h 39.25464"
+       style="fill:none;stroke:#000000;stroke-width:0.119944;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.479778, 0.479778;stroke-dashoffset:0;stroke-opacity:1"
+       id="path892" />
+    <path
+       d="m 447.25569,-1032.8005 h 39.25464"
+       style="fill:none;stroke:#000000;stroke-width:0.119944;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.479778, 0.479778;stroke-dashoffset:0;stroke-opacity:1"
+       id="path894" />
+    <g
+       id="g896"
+       transform="matrix(0.35277777,0,0,-0.35277777,383.81496,-849.03542)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,177.564,436.371)"
+         style="font-variant:normal;font-size:8.16px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text900"><tspan
+           x="0 25.55002 30.086981 51.099632 55.636593 60.173553 78.917564 83.454521 87.991486 106.7359 111.27286 115.80982"
+           y="0"
+           sodipodi:role="line"
+           id="tspan898">050100150200</tspan></text>
+    </g>
+    <path
+       d="m 447.25569,-1032.8005 h 1.96274 v -13.0849 h -1.96274 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352778"
+       id="path902" />
+    <path
+       d="m 449.21855,-1019.7157 h 1.9626 v -13.0847 h -1.9626 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352778"
+       id="path904" />
+    <path
+       d="m 451.18105,-1006.6308 h 35.32928 v -13.0849 h -35.32928 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352778"
+       id="path906" />
+  </g>
+</svg>
