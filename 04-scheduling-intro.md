@@ -114,7 +114,7 @@ Politica: esegui il processo con il **tempo di esecuzione più breve**, fino all
 ![w:500px](images/sjf_diagram.svg)
 
 Turnaround time medio:
-$$\frac{10 + 20 + 120}{3} = 20$$
+$$\frac{10 + 20 + 120}{3} = 50$$
 
 * Come implementare SJF?
   * coda con priorità (es.: heap binario)
