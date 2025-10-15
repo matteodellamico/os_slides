@@ -230,7 +230,7 @@ Il processo in esecuzione **cede volontariamente** la CPU al SO
 
 <!-- _class: design -->
 
-![bg left:35% width:500px](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/itcrowd.png)
+![bg left:35% width:500px](images/itcrowd.png)
 
 # Design tip: Ctrl-Alt-Del
 

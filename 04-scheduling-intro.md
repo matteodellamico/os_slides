@@ -33,7 +33,7 @@ Matteo Dell'Amico
 
 Sorgenti [Marp](https://marp.app/) su https://github.com/matteodellamico/os_slides
 
-Fonte: [*Scheduling: Introduction*](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf), capitolo 6 di [*Operating Systems: Three Easy Pieces*](http://pages.cs.wisc.edu/~remzi/OSTEP/), di Remzi H. Arpaci-Dusseau e Andrea C. Arpaci-Dusseau.
+Fonte: [*Scheduling: Introduction*](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf), capitolo 7 di [*Operating Systems: Three Easy Pieces*](http://pages.cs.wisc.edu/~remzi/OSTEP/), di Remzi H. Arpaci-Dusseau e Andrea C. Arpaci-Dusseau.
 
 ---
 
@@ -71,7 +71,7 @@ Ce ne sono molte altre, ad esempio per valutare **reattività** e **equità**.
 
 ---
 
-![bg right:45%](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/fifo.png)
+![bg right:45%](images/fifo.png)
 
 # First In, First Out (FIFO)
 
@@ -88,11 +88,11 @@ La **coda** si implementa semplicemente
 
 ---
 
-![bg left:50%](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/convoy.jpg)
+![bg left:50%](images/convoy.jpg)
 
 # Effetto convoglio (*convoy effect*)
 
-![w:500px](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/fifo-diagram2.jpg)
+![w:500px](images/fifo-diagram2.jpg)
 
 Turnaround time medio:
 
@@ -111,7 +111,7 @@ $$\frac{100 + 110 + 120}{3} = 110$$
 
 Politica: esegui il processo con il **tempo di esecuzione più breve**, fino alla fine.
 
-![w:500px](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/sjf_diagram.svg)
+![w:500px](images/sjf_diagram.svg)
 
 Turnaround time medio:
 $$\frac{10 + 20 + 120}{3} = 20$$
@@ -123,7 +123,7 @@ $$\frac{10 + 20 + 120}{3} = 20$$
 
 <!-- _class: aside -->
 
-![bg left:40%](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/msadu.jpg)
+![bg left:40%](images/msadu.jpg)
 
 # ...ma come sapere quanto durerà un processo?
 
@@ -135,14 +135,14 @@ Per il momento **portiamo pazienza**: vedremo poi come ottenere risultati simili
 
 ---
 
-![bg right:50%](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/convoy.jpg)
+![bg right:50%](images/convoy.jpg)
 
 
 # E se B e C arrivano dopo A?
 
 Supponiamo che A arrivi al tempo 0, e B e C al tempo 10.
 
-![w:500px](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/sjf_diagram2.svg)
+![w:500px](images/sjf_diagram2.svg)
 
 Siamo tornati all'**effetto convoglio**.
 
@@ -158,7 +158,7 @@ Politica: esegui il processo con il **tempo di esecuzione residuo più breve**.
 
 Se arriva un nuovo processo con tempo più breve, **interrompilo** (***preempt***) e fai partire il nuovo.
 
-![w:500px center](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/srpt_diagram.svg)
+![w:500px center](images/srpt_diagram.svg)
 
 SRPT è **ottimale** per ottimizzare il turnaround time medio.
 
@@ -191,7 +191,7 @@ Come migliorare le cose?
 Politica: assegna a ogni processo un **time slice** (es.: 100ms).
 - La time slice deve essere un multiplo dell'intervallo di timer (es.: 10ms).
 
-![w:500px](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/rr_diagram.svg)
+![w:500px](images/rr_diagram.svg)
 
 Si **ottimizza il tempo di risposta**, al costo di un turnaround time più alto.
 
@@ -199,7 +199,7 @@ Si **ottimizza il tempo di risposta**, al costo di un turnaround time più alto.
 
 # Round Robin vs SRPT
 
-![w:500px](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/rr_diagram.svg) &emsp; ![w:500px right](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/srpt_diagram2.svg)
+![w:500px](images/rr_diagram.svg) &emsp; ![w:500px right](images/srpt_diagram2.svg)
 
 Tempo di risposta: RR $\frac{0+1+2}{3}=1$ vs SRPT $\frac{0+5+10}{3}=5$
 
@@ -213,7 +213,7 @@ Turnaround time: RR $\frac{13+14+15}{3}=14$ vs SRPT $\frac{5+10+15}{3}=10$
 
 # Tempo di risposta e turnaround time
 
-![bg left:40% 100%](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/scale.svg)
+![bg left:40% 100%](images/scale.svg)
 
 Purtroppo, **non possiamo ottimizzare entrambe le metriche**.
 
@@ -233,7 +233,7 @@ I processi vengono suddivisi in **sotto-compiti**: **CPU burst** e **I/O burst**
 
 Strategia comune: schedulare i singoli **CPU burst**, e schedulare altri processi quando quello in esecuzione si blocca.
 
-![w:500px center](https://raw.githubusercontent.com/matteodellamico/os_slides/2a1e5aee02e30afa975f11034a0c763cdc38d0b4/images/io_diagram.svg)
+![w:500px center](images/io_diagram.svg)
 
 Anche SRPT diventa **reattivo** con i processi interattivi che usano spesso l'I/O.
 

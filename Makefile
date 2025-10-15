@@ -1,4 +1,4 @@
-MARPC=npx @marp-team/marp-cli@latest
+MARPC=npx @marp-team/marp-cli@latest --allow-local-files
 MD_FILES=$(filter-out README.md, $(wildcard *.md))
 PDFS=$(MD_FILES:.md=.pdf)
 HTMLS=$(MD_FILES:.md=.html)
