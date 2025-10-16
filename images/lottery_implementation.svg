@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="77.976692mm"
+   height="12.382501mm"
+   viewBox="0 0 77.976692 12.382501"
+   version="1.1"
+   id="svg4656"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="lottery_implementation.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4658"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.914906"
+     inkscape:cx="-194.55551"
+     inkscape:cy="-187.99745"
+     inkscape:window-width="3774"
+     inkscape:window-height="2089"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4653">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath846">
+      <path
+         d="m 1640.93,2784.87 c 0,96.93 -78.58,175.5 -175.5,175.5 -96.93,0 -175.5,-78.57 -175.5,-175.5 0,-96.92 78.57,-175.5 175.5,-175.5 96.92,0 175.5,78.58 175.5,175.5 z"
+         id="path844" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath870">
+      <path
+         d="m 2167.43,2784.87 c 0,96.93 -78.58,175.5 -175.5,175.5 -96.93,0 -175.5,-78.57 -175.5,-175.5 0,-96.92 78.57,-175.5 175.5,-175.5 96.92,0 175.5,78.58 175.5,175.5 z"
+         id="path868" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath894">
+      <path
+         d="m 2693.93,2784.87 c 0,96.93 -78.58,175.5 -175.5,175.5 -96.93,0 -175.5,-78.57 -175.5,-175.5 0,-96.92 78.57,-175.5 175.5,-175.5 96.92,0 175.5,78.58 175.5,175.5 z"
+         id="path892" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-156.79452,-198.26736)">
+    <g
+       id="g828"
+       transform="matrix(0.35277777,0,0,-0.35277777,125.02649,302.70264)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,89.5051,275.679)"
+         style="font-variant:normal;font-size:7.8px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text832"><tspan
+           x="0 4.3368001 8.6736002 13.0104"
+           y="0"
+           sodipodi:role="line"
+           id="tspan830">head</tspan></text>
+    </g>
+    <path
+       d="m 164.3411,204.45862 h 4.64326"
+       style="fill:none;stroke:#000000;stroke-width:0.343958;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path834" />
+    <path
+       d="m 168.98436,204.45862 v -0.86008 l 1.7198,0.86008 -1.7198,0.85972 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352778"
+       id="path836" />
+    <path
+       d="m 168.98436,204.45862 v -0.86008 l 1.7198,0.86008 -1.7198,0.85972 z"
+       style="fill:none;stroke:#000000;stroke-width:0.171979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path838" />
+    <g
+       id="g840"
+       transform="matrix(0.03527778,0,0,-0.03527778,125.02649,302.70264)">
+      <g
+         id="g842"
+         clip-path="url(#clipPath846)">
+        <path
+           d="m 1289.93,2609.37 h 351 v 351 h -351 z"
+           style="fill:#d4d4d4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path848" />
+      </g>
+    </g>
+    <g
+       id="g850"
+       transform="matrix(0.35277777,0,0,-0.35277777,125.02649,302.70264)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,136.57,280.066)"
+         style="font-variant:normal;font-size:7.8px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text856"><tspan
+           x="0 3.9000001 8.2368002 12.5736 14.742"
+           y="0"
+           sodipodi:role="line"
+           id="tspan852">Job:A</tspan><tspan
+           x="-2.8156199 1.9501801 3.6817801 7.58178 9.7501802 14.08698 18.42378"
+           y="8.7749996"
+           sodipodi:role="line"
+           id="tspan854">Tix:100</tspan></text>
+    </g>
+    <path
+       d="m 182.91485,204.45862 h 4.64326"
+       style="fill:none;stroke:#000000;stroke-width:0.343958;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path858" />
+    <path
+       d="m 187.55811,204.45862 v -0.86008 l 1.7198,0.86008 -1.7198,0.85972 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352778"
+       id="path860" />
+    <path
+       d="m 187.55811,204.45862 v -0.86008 l 1.7198,0.86008 -1.7198,0.85972 z"
+       style="fill:none;stroke:#000000;stroke-width:0.171979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path862" />
+    <g
+       id="g864"
+       transform="matrix(0.03527778,0,0,-0.03527778,125.02649,302.70264)">
+      <g
+         id="g866"
+         clip-path="url(#clipPath870)">
+        <path
+           d="m 1816.43,2609.37 h 351 v 351 h -351 z"
+           style="fill:#d4d4d4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path872" />
+      </g>
+    </g>
+    <g
+       id="g874"
+       transform="matrix(0.35277777,0,0,-0.35277777,125.02649,302.70264)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,189.22,280.066)"
+         style="font-variant:normal;font-size:7.8px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text880"><tspan
+           x="0 3.9000001 8.2368002 12.5736 14.742"
+           y="0"
+           sodipodi:role="line"
+           id="tspan876">Job:B</tspan><tspan
+           x="-0.64726597 4.1185341 5.8501339 9.7501345 11.918534 16.255335"
+           y="8.7749996"
+           sodipodi:role="line"
+           id="tspan878">Tix:50</tspan></text>
+    </g>
+    <path
+       d="m 201.4886,204.45862 h 4.64326"
+       style="fill:none;stroke:#000000;stroke-width:0.343958;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path882" />
+    <path
+       d="m 206.13186,204.45862 v -0.86008 l 1.71979,0.86008 -1.71979,0.85972 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352778"
+       id="path884" />
+    <path
+       d="m 206.13186,204.45862 v -0.86008 l 1.71979,0.86008 -1.71979,0.85972 z"
+       style="fill:none;stroke:#000000;stroke-width:0.171979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path886" />
+    <g
+       id="g888"
+       transform="matrix(0.03527778,0,0,-0.03527778,125.02649,302.70264)">
+      <g
+         id="g890"
+         clip-path="url(#clipPath894)">
+        <path
+           d="m 2342.93,2609.37 h 351 v 351 h -351 z"
+           style="fill:#d4d4d4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path896" />
+      </g>
+    </g>
+    <g
+       id="g898"
+       transform="matrix(0.35277777,0,0,-0.35277777,125.02649,302.70264)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,241.656,280.066)"
+         style="font-variant:normal;font-size:7.8px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text904"><tspan
+           x="0 3.9000001 8.2368002 12.5736 14.742"
+           y="0"
+           sodipodi:role="line"
+           id="tspan900">Job:C</tspan><tspan
+           x="-2.6011701 2.1646299 3.89623 7.7962298 9.9646301 14.30143 18.638229"
+           y="8.7749996"
+           sodipodi:role="line"
+           id="tspan902">Tix:250</tspan></text>
+    </g>
+    <path
+       d="m 220.06235,204.45862 h 4.64326"
+       style="fill:none;stroke:#000000;stroke-width:0.343958;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path906" />
+    <path
+       d="m 224.70561,204.45862 v -0.86008 l 1.71979,0.86008 -1.71979,0.85972 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352778"
+       id="path908" />
+    <path
+       d="m 224.70561,204.45862 v -0.86008 l 1.71979,0.86008 -1.71979,0.85972 z"
+       style="fill:none;stroke:#000000;stroke-width:0.171979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path910" />
+    <g
+       id="g912"
+       transform="matrix(0.35277777,0,0,-0.35277777,125.02649,302.70264)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,291.33,275.679)"
+         style="font-variant:normal;font-size:7.8px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text916"><tspan
+           x="0 5.6315999 11.2632 15.6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan914">NULL</tspan></text>
+    </g>
+  </g>
+</svg>
