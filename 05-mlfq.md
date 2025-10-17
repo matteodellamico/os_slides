@@ -82,14 +82,14 @@ Esempi:
 Idea di base: diversi **livelli di priorità**, con **una coda ciascuno**.
 
 Regola di scheduling:
-1) scegli la **coda non vuota** con **priorità più alta**
-2) esegui in **round robin** i processi nella coda
+1. scegli la **coda non vuota** con **priorità più alta**
+2. esegui in **round robin** i processi nella coda
 
 I processi **cambiano coda** in base al loro comportamento (*feedback*).
 
 ---
 
-# Perdere priorità (approccio 1)
+# Perdere priorità
 
 ![bg right:30% demoted process 90%](images/mlfq_demote.svg)
 
@@ -133,4 +133,71 @@ Processi **brevi** (sinistra) e **interattivi** (I/O frequente, destra) hanno **
 Stiamo lavorando per sistemi **multi-utente**
 - Es.: cloud
 
+Uno scheduler vulnerabile può essere usato per attacchi ***denial-of-service*** (DoS), monopolizzando la CPU.
+
 Gli utenti non sono necessariamente **fidati**
+
+---
+
+# Difendersi dagli attacchi
+
+![w:800px center](images/mlfq_security.svg)
+
+Basta **non resettare l'allotment** (destra) quando un processo cede la CPU.
+
+---
+
+# Riguadagnare priorità
+
+![w:700px center](images/mlfq_promote.svg)
+
+Dopo un intervallo di tempo $S$, tutti i processi **ritornano alla coda di priorità più alta**.
+- si evita la starvation
+- se un processo **cambia comportamento**, lo scheduler si adatta
+
+---
+
+<!-- _class: design -->
+
+# Design tip: costanti vudù
+
+![bg right:40% 210%](https://static.wikia.nocookie.net/monkeyislandes/images/f/f4/Voodoo_MI1.jpg/revision/latest?cb=20121007100904&path-prefix=es)
+
+MLFQ ha **molti parametri da configurare**:
+- numero di code
+- allotment (può variare per coda)
+- intervallo $S$ per il reset
+
+Trovare configurazioni efficaci è **difficile** e spesso **empirico**.
+
+Se possibile, sistemi con meno parametri sono preferibili.
+
+Il **machine learning** è una buona opzione per trovare buone configurazioni.
+
+---
+
+<!-- Solaris: 60 code, allotment da 20ms a qualche centinaio di ms, reset ogni secondo -->
+
+# Configurazioni di MLFQ
+
+![bg right:40% demoted process 90%](images/mlfq_tuning.svg)
+
+Ci sono **molte varianti** di MLFQ.
+
+- Allotment variable secondo la coda (destra) per minimizzare il response time sui processi interattivi
+- Formule per calcolare la priorità in base alla CPU usata, che "decade" nel tempo
+  - es., dimezzamento periodico
+- Comandi utente (es.: `nice`) per personalizzare le priorità
+
+---
+
+# Riepilogo
+
+Multi-Level Feedback Queue:
+- code a **più livelli di priorità**
+- adatta le priorità basandosi sul passato (**feedback**)
+
+È un buon compromesso tra
+- **turnaround time**, perché i processi brevi vengono eseguiti velocemente
+- **tempo di risposta**, perché tutti i processi avanzano e quelli interattivi lo fanno più rapidamente
+
