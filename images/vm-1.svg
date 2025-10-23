@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40.429272mm"
+   height="62.783974mm"
+   viewBox="0 0 40.429272 62.783974"
+   version="1.1"
+   id="svg3068"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="disegno.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3070"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.914906"
+     inkscape:cx="-1229.6345"
+     inkscape:cy="641.59596"
+     inkscape:window-width="3774"
+     inkscape:window-height="2091"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3065">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath178">
+      <path
+         d="m 2060.14,5007.19 h 818.184 V 5498.1 H 2060.14 Z"
+         id="path176" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-430.34622,21.27027)">
+    <path
+       d="m 441.76746,40.408035 h 28.86371 V -2.8873222 h -28.86371 z"
+       style="fill:none;stroke:#000000;stroke-width:0.288636;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path170" />
+    <g
+       id="g172"
+       transform="matrix(0.03527778,0,0,-0.03527778,369.0903,173.75521)">
+      <g
+         id="g174"
+         clip-path="url(#clipPath178)">
+        <path
+           d="m 2060.14,5007.19 h 818.184 V 5498.1 H 2060.14 Z"
+           style="fill:#d4d4d4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path180" />
+      </g>
+    </g>
+    <path
+       d="m 441.76746,-2.8873222 h 28.86371 V -20.205536 h -28.86371 z"
+       style="fill:none;stroke:#000000;stroke-width:0.288636;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path182" />
+    <g
+       id="g184"
+       transform="matrix(0.35277777,0,0,-0.35277777,369.0903,173.75521)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,173.287,375.046)"
+         style="font-variant:normal;font-size:8.18182px;font-family:'Nimbus Sans';-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text200"><tspan
+           x="0 6.8154559 11.364548"
+           y="0"
+           sodipodi:role="line"
+           id="tspan186">max</tspan><tspan
+           x="0 4.5490918 9.0981836 14.555458"
+           y="-122.727"
+           sodipodi:role="line"
+           id="tspan188">64KB</tspan><tspan
+           x="0 4.5490918 10.006366"
+           y="-171.8176"
+           sodipodi:role="line"
+           id="tspan190">0KB</tspan><tspan
+           x="43.1777 49.084972 53.634068 56.358612 59.083157 63.632252 68.181343 70.455887 72.730431 78.187706 80.912254 85.461349 90.010437 92.734985 97.284073"
+           y="-60.217602"
+           sodipodi:role="line"
+           id="tspan192">Current Program</tspan><tspan
+           x="42.940983 45.665527 49.756435 54.305531 58.854622 63.403713 65.678261 67.952805 72.5019 77.050987 79.325531 83.874626 86.14917 88.423721 92.972809 95.247353 99.338264 101.61282"
+           y="-52.035961"
+           sodipodi:role="line"
+           id="tspan194">(code, data, etc.)</tspan><tspan
+           x="40.899181 47.264637 51.813728 56.36282 59.087368 63.636459 65.911003 67.727371 72.276459 76.825554 79.100098 84.557373 88.648285 92.739189 95.013741 99.562828"
+           y="-158.39996"
+           sodipodi:role="line"
+           id="tspan196">Operating System</tspan><tspan
+           x="42.940983 45.665527 49.756435 54.305531 58.854622 63.403713 65.678261 67.952805 72.5019 77.050987 79.325531 83.874626 86.14917 88.423721 92.972809 95.247353 99.338264 101.61282"
+           y="-150.21793"
+           sodipodi:role="line"
+           id="tspan198">(code, data, etc.)</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -269,7 +269,7 @@ Protezione della memoria e concorrenza
 # Personal Computer
 
 ![bg left:50%](https://upload.wikimedia.org/wikipedia/commons/6/69/IBM_PC_5150.jpg)
-![bg left:50%](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/512px-Tux.svg.png)
+![bg left:50%](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
 
 Grosso passo indietro con i primi PC IBM: **MS-DOS**
 
